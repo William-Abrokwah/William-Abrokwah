@@ -4,7 +4,7 @@
 #### I'm a SWE student at McGill University, interested in math, coding, machine learning, AI and just building cool things in general.
 
 ## Connect with me:
-
+https://www.linkedin.com/in/william-abrokwah 
 # Teck Stack:
 
 <!--
