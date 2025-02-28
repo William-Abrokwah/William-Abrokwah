@@ -1,11 +1,11 @@
-### Hi there👋 I'm William
-### About me
+# Hi there👋 I'm William
+# About me
 
-# I'm a CS student at McGill University, interested in math, coding, machine learning, AI and just building cool things in general.
+#### I'm a CS student at McGill University, interested in math, coding, machine learning, AI and just building cool things in general.
 
 ## Connect with me:
 
-### Teck Stack:
+# Teck Stack:
 
 <!--
 **William-Abrokwah/William-Abrokwah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
