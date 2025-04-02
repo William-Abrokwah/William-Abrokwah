@@ -1,7 +1,7 @@
 # Hi there👋 I'm William
 # About me
 
-#### I'm a SWE student at McGill University, interested in math, coding, machine learning, AI and just building cool things in general.
+#### I'm a SWE student at McGill University, interested in math, coding, machine learning, and AI and just building cool things in general.
 
 ## Connect with me:
 https://www.linkedin.com/in/william-abrokwah 
@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+"At the end of the day it's not about what you have or even what you've accomplished... It's about who you've lifted up, who you've made better. It's about what you've given back."
+-Denzel Washington
