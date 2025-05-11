@@ -1,7 +1,7 @@
 # Hi there👋 I'm William
 # About me
 
-#### I'm a SWE student at McGill University, interested in math, coding, machine learning, and AI and just building cool things in general.
+#### I'm a SWE student at McGill University, interested in math, coding, machine learning, AI and just building cool things in general.
 
 ## Connect with me:
 https://www.linkedin.com/in/william-abrokwah 
