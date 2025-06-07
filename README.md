@@ -7,6 +7,11 @@
 https://www.linkedin.com/in/william-abrokwah 
 # Teck Stack:
 
+Languages: Python, Java, C++, C, HTML, CSS, Javascript (in progress)
+Libraries & Frameworks: Tailwind CSS
+DevOp & Tools: Git, Bash, Linux/Unix
+
+
 <!--
 **William-Abrokwah/William-Abrokwah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
