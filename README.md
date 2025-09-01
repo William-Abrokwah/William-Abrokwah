@@ -2,9 +2,11 @@
 # About me:
 
 #### I'm a SWE student at McGill University, interested in math, coding, machine learning, AI and just building cool things in general.
+Check out my coding portfolio: (to be added 😳)
 
 ## 🌐 Connect with me:
-https://www.linkedin.com/in/william-abrokwah 
+https://www.linkedin.com/in/william-abrokwah
+
 # 🛠️ Teck Stack:
 
 Languages: Python, Java, C++, C, HTML, CSS, Javascript (in progress) <br>
