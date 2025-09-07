@@ -9,8 +9,8 @@ https://www.linkedin.com/in/william-abrokwah
 
 # 🛠️ Teck Stack:
 
-Languages: Python, Java, C++, C, HTML, CSS, Javascript (in progress) <br>
-Libraries & Frameworks: Tailwind CSS <br>
+Languages: Python, Java, C++, C, HTML, CSS, Javascript, SQL (in progress) <br>
+Libraries & Frameworks: PostgreSQL (in progress), React (in progress), Spring Boot (in progress), AWS (planned) <br>
 DevOp & Tools: Git, Bash, Linux/Unix <br>
 
 
