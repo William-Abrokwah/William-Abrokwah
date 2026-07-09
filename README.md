@@ -1,14 +1,14 @@
-# Hi there👋 I'm William
-# 💫 About me:
+# Hi there👋 I'm William Abrokwah
 
-#### I am a Software Engineering student at McGill University, interested in math, coding, machine learning, AI and just building cool things in general.
-Check out my coding portfolio: (to be added 😳)
+# 💫 About me:
+I am a Software Engineering student at McGill University. I like building projects that interest me, whether they solve a problem, teach me something new, or are simply fun to make. The ones that turn up well end up here 🙂.
+
+Check out my coding portfolio: (to be added soon 😳)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/william-abrokwah)
 
 # 🛠️ Teck Stack:
-
 Languages:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -18,11 +18,13 @@ Languages:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-DevOp & Tools:
+Developer Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 Libraries & Frameworks:
 ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
