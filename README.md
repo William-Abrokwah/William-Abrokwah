@@ -3,8 +3,6 @@
 # 💫 About me:
 I am a Software Engineering student at McGill University. I like building projects that interest me, whether they solve a problem, teach me something new, or are simply fun to make. The ones that turn up well end up here 🙂.
 
-Check out my coding portfolio: (to be added soon 😳)
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/william-abrokwah)
 
